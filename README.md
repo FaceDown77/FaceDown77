@@ -11,17 +11,25 @@
 ---
 
 ## 🔧 기술 및 도구
-### 프로그래밍 언어:
+#### 프로그래밍 언어:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 하드웨어 플랫폼:
+#### 하드웨어 플랫폼:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 개발 도구:
+#### 개발 도구:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-CC0000?style=for-the-badge&logo=microchiptechnology&logoColor=white)
+
+#### 기타 사항:
+![Q Series](https://img.shields.io/badge/Q_Series-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white)
+![FX5U CPU](https://img.shields.io/badge/FX5U_CPU-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white)
+![iQ-R Series](https://img.shields.io/badge/iQ_R_Series-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white) <br>
+![GX Works2](https://img.shields.io/badge/GX_Works2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![GX Works3](https://img.shields.io/badge/GX_Works3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D4?style=for-the-badge&logo=windows&logoColor=white) 
 
 ---
 
