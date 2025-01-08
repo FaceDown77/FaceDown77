@@ -10,6 +10,21 @@
 
 ---
 
+## 🔧 기술 및 도구
+### 프로그래밍 언어:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 하드웨어 플랫폼:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 개발 도구:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-CC0000?style=for-the-badge&logo=microchiptechnology&logoColor=white)
+
+---
+
 ## 🕙 활동사항 및 경력
 
 | **기간**       | **활동/경력**               | **주요 업무** |
@@ -18,21 +33,6 @@
 | 2023.8 ~ 2024.3 | **에스에프에이** 제어설계1팀  | Conveyor 물류시스템 PLC & HMI 제어설계 |
 | 2017.2 ~ 2022.7 | **디엠에스** 제어설계팀/표준화팀 | LCD 세정장비 및 약액장비 PLC & HMI 제어설계 |
 | 2011.3 ~ 2017.2 | **청주대학교** | 전자공학과 졸업 |
-
----
-
-## 🔧 기술 및 도구
-### 프로그래밍 언어:
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-
-### 하드웨어 플랫폼:
-- Ubuntu Linux
-- Arduino, STM32 Nucleo, Raspberry Pi, ESP32
-
-### 개발 도구:
-- **버전 관리:** Git, GitHub  
-- **개발 환경(IDE):** VS Code, Visual Studio, Arduino IDE, Microchip Studio
 
 ---
 
@@ -62,11 +62,11 @@
 
 ## 📫 연락처
 - **이메일:** dlsgur7053@gmail.com
-<!--- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
+<!--- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
 ## 🤝 함께 협업해요!
-제 저장소를 탐색하고 의견을 나눠주세요. 항상 다른 사람들에게 배우고 흥미로운 프로젝트에 기여하는 데 열려 있습니다!
+제 저장소를 탐색하고 의견을 나눠주세요. 항상 다른 사람들에게 배우고 흥미로운 프로젝트에 기여하는 데 열려 있습니다! -->
 
 ---
