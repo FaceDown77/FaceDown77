@@ -4,9 +4,9 @@
 
 ## 💡 소개
 - 🎓 **학생 개발자**로서 **임베디드 시스템**과 **IoT 솔루션**에 강한 열정을 가지고 있습니다.
-- 🛠 현재 **C/C++**, **Python**, **임베디드 하드웨어**(Arduino, STM32, Raspberry Pi) 관련 기술을 배우고 있습니다.
-- 🌱 **실시간 시스템**, **저전력 설계**, **센서 통합**에 대해 지속적으로 학습하고 있습니다.
+- 🛠 현재 **C/C++**, **임베디드 리눅스**(부트로더, 디바이스 드라이버, BSP), <br>**임베디드 하드웨어**(Raspberry Pi, Arduino, STM32) 관련 기술을 배우고 있습니다.
 - 🎯 혁신적이고 의미 있는 솔루션을 개발하는 **임베디드 시스템 엔지니어**가 되는 것이 목표입니다.
+- 🚀 **과거의 경험**과 **현재의 기술**을 융합하여 새롭게 나아가고자 새로운 직군으로 **구직중**에 있습니다.
 
 ---
 
@@ -24,12 +24,12 @@
   ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-CC0000?style=for-the-badge&logo=microchiptechnology&logoColor=white)
 
 #### 기타 사항:
-![Q Series](https://img.shields.io/badge/Q_Series-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white)
-![FX5U CPU](https://img.shields.io/badge/FX5U_CPU-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white)
-![iQ-R Series](https://img.shields.io/badge/iQ_R_Series-FF5722?style=for-the-badge&logo=mitsubishi&logoColor=white) <br>
-![GX Works2](https://img.shields.io/badge/GX_Works2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![GX Works3](https://img.shields.io/badge/GX_Works3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D4?style=for-the-badge&logo=windows&logoColor=white) 
+![GX Works3](https://img.shields.io/badge/GX_Works3-0078D4?style=flat-square&logo=windows&logoColor=white)
+![GX Works2](https://img.shields.io/badge/GX_Works2-0078D4?style=flat-square&logo=windows&logoColor=white)
+![GT Designer3](https://img.shields.io/badge/GT_Designer3-0078D4?style=flat-square&logo=windows&logoColor=white)  <br>
+![iQ-R Series](https://img.shields.io/badge/iQ_R_Series-FF5722?style=flat-square&logo=mitsubishi&logoColor=white)
+![Q Series](https://img.shields.io/badge/Q_Series-FF5722?style=flat-square&logo=mitsubishi&logoColor=white)
+![FX5U CPU](https://img.shields.io/badge/FX5U_CPU-FF5722?style=flat-square&logo=mitsubishi&logoColor=white)
 
 ---
 
@@ -46,19 +46,19 @@
 
 ## 🌟 프로젝트
 ### 🔷 **[IoT 우편함](https://github.com/username/smart-mailbox)**
-- **설명:** 우편물 감지, 시간 기록, Wi-Fi를 통한 데이터 보고 기능을 갖춘 스마트 우편함
-- **기술:** Raspberry Pi, Apache, MariaDB, Python, 초음파 센서
-- **특징:** 초저전력 동작, 실시간 알림
+- **설명:** 초음파 센서와 Wi-Fi 통신을 통한 우편물 감지 및 알림, 우편함 관리 및 상태 모니터링 기능을 갖춘 IoT 우편함
+- **기술:** C, STM32, Raspberry Pi, Wi-Fi, Bluetooth, 초음파 센서
+- **특징:** IoT, 저전력 동작, 실시간 알림
 
 ### 🔷 **[자율주행 RC카](https://github.com/FaceDown77/intel-class-PJT03)**
 - **설명:** 초음파 센서를 이용한 장애물 감지 기능이 있는 Raspberry Pi 기반 RC카
-- **기술:** Python, OpenCV, Raspberry Pi, L298N 모터 드라이버
+- **기술:** Python, C++, OpenCV, Raspberry Pi, L298N 모터 드라이버
 - **특징:** 수동 및 자율 모드, 센서 스레드 관리
 
 ### 🔷 **[간이선풍기](https://github.com/FaceDown77/miniFanPJT)**
-- **설명:**
-- **기술:**
-- **특징:**
+- **설명:** ATmega128 기반의 GPIO와 UART 통신을 이용해 제어 가능한 간이 선풍기 시스템
+- **기술:** C, ATmega128, Interrupt, Timer/Counter, GPIO
+- **특징:** GPIO 제어, UART 통신
 
 ---
 
