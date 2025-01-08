@@ -60,12 +60,26 @@
 - **기술:** C, ATmega128, Interrupt, Timer/Counter, GPIO
 - **특징:** GPIO 제어, UART 통신
 
----
+### 🔷 **교육실습 사항**
+- **MCU 보드**
+  - **Arduino Uno :** LED & Button 입출력 제어, PWM 서보모터 제어
+  - **STM32 Nucleo F401RE :** HAL 드라이버를 이용한 GPIO, Timer, Interrupt 활용 실습
+- **임베디드 리눅스(BSP)**
+  - **Linux Kernel :** 5.19.9 Linux Kernel 설치, 포팅, 배포 / 크로스컴파일 환경 구축
+  - **Boot Loader :** U-Boot 적용 / 어셈블리어를 통해 Pi GPIO 제어 (LED, Button)
+  - **Device Driver :** GPIO 제어 및 jiffes timer / 포팅 및 배포
+  - **Application :** 포팅 및 배포된 디바이스 드라이버 제어용 어플리케이션 작성
+- **QT GUI**
+  - **Qt Creator :** IoT 시스템 제어용 GUI 제작 및 실습
+- **ROS (by. Tutlebot3)**
+  - **ROS의 이해와 학습**
+  - **SLAM & Navigation 실습**
 
+<!-----
 ## 📈 통계
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaceDown77&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaceDown77&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 📫 연락처
