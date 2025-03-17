@@ -3,19 +3,18 @@
 ---
 
 ## 💡 소개
-- 🎓 **학생 개발자**로서 **임베디드 시스템**과 **IoT 솔루션**에 강한 열정을 가지고 있습니다.
-- 🛠 현재 **C/C++**, **임베디드 리눅스**(부트로더, 디바이스 드라이버, BSP), <br>**임베디드 하드웨어**(Raspberry Pi, Arduino, STM32) 관련 기술을 배우고 있습니다.
-- 🎯 혁신적이고 의미 있는 솔루션을 개발하는 **임베디드 소프트웨어 개발자**가 되는 것이 목표입니다.
-- 🚀 **과거의 경험**과 **현재의 기술**을 융합하여 새롭게 나아가고자 임베디드 직군으로 **구직중**에 있습니다.
+- 💻 現 : CPRO, 임베디드 BSP 엔지니어
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RISC-V](https://img.shields.io/badge/RISC-V-42A5F5?style=for-the-badge&logo=riscv&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
-## 🔧 기술 및 도구
+## 🔧 보유기술 및 도구
 #### 프로그래밍 언어:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 하드웨어 플랫폼:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RISC-V](https://img.shields.io/badge/RISC-V-42A5F5?style=for-the-badge&logo=riscv&logoColor=black) <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 #### 개발 도구:
@@ -37,14 +36,16 @@
 
 | **기간**       | **활동/경력**               | **주요 업무** |
 |:---------------:|:----------------------------:|-----------------------------------------------------|
+| 2025.3 ~  | **CPRO**<br>(SW팀) | IP CAMERA용 리눅스 환경 BSP 개발 및 엔지니어 업무 |
 | 2024.7 ~ 2025.2 | **인텔 엣지 AI S/W 아카데미** | AI & 임베디드 소프트웨어 개발 및 엣지 디바이스 통합 학습 |
 | 2023.8 ~ 2024.3 | **에스에프에이**<br>(제어설계팀) | Conveyor 물류시스템 PLC & HMI 제어설계 |
 | 2017.2 ~ 2022.7 | **디엠에스**<br>(제어설계팀/표준화팀) | LCD 세정장비 및 약액장비 PLC & HMI 제어설계 |
 | 2011.3 ~ 2017.2 | **청주대학교** | 전자공학과 졸업 |
 
+<!-----
 ---
 
-## 🌟 프로젝트
+## 🌟 프로젝트(2024.7 ~ 2025.2)
 ### 🔷 **[IoT 우편함](https://github.com/FaceDown77/iot-mailbox_Project)**
 - **설명:** 초음파 센서와 Wi-Fi 통신을 통한 우편물 감지 및 알림, 우편함 관리 및 상태 모니터링 기능을 갖춘 IoT 우편함
 - **기술:** C, STM32, Raspberry Pi, Wi-Fi, Bluetooth, 초음파 센서
