@@ -3,8 +3,8 @@
 ---
 
 ## 💡 소개
-- 💻 現 : CPRO, 임베디드 BSP 엔지니어
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RISC-V](https://img.shields.io/badge/RISC-V-42A5F5?style=for-the-badge&logo=riscv&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 💻 現 : CPRO, 임베디드 SW 엔지니어
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IP Camera](https://img.shields.io/badge/IP_Camera-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 
 ---
@@ -14,8 +14,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 하드웨어 플랫폼:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RISC-V](https://img.shields.io/badge/RISC-V-42A5F5?style=for-the-badge&logo=riscv&logoColor=black) <br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RISC-V](https://img.shields.io/badge/RISC-V-42A5F5?style=for-the-badge&logo=riscv&logoColor=black) 
+![MediaTek](https://img.shields.io/badge/MediaTek-EF7D00?style=for-the-badge&logo=mediatek&logoColor=white) ![Ambarella](https://img.shields.io/badge/Ambarella-004A99?style=for-the-badge&logo=semiconductors&logoColor=white) 
+<br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) <br>
+
+#### 전문 분야 (Domains):
+![BSP](https://img.shields.io/badge/BSP_Development-333333?style=for-the-badge&logo=linux&logoColor=white) ![IP Camera](https://img.shields.io/badge/IP_Camera-000000?style=for-the-badge&logo=securityscorecard&logoColor=white) ![AIoT](https://img.shields.io/badge/AIoT-4CAF50?style=for-the-badge&logo=iot&logoColor=white) <br> 
 
 #### 개발 도구:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
