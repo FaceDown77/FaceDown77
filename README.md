@@ -4,6 +4,7 @@
 
 ## 💡 소개
 - 💻 現 : CPRO, 임베디드 SW 엔지니어
+- 🔧 前 : PLC 제어설계 엔지니어
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IP Camera](https://img.shields.io/badge/IP_Camera-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 
